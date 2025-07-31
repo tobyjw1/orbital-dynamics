@@ -1,5 +1,5 @@
 # Lagrange Point Simulator 🛰️🌍☀️
-
+![CR3BP Animation](orbitalani.gif)
 This is a Python-based simulation of the **Circular Restricted Three-Body Problem (CR3BP)**, focused on visualising the **Earth–Sun system** and its **Lagrange points**, particularly **L1–L5**. The simulation includes interactive sliders to control time, initial position, and velocity — offering a dynamic way to explore orbital mechanics.
 
 ---
